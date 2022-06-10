@@ -42,3 +42,6 @@ jobs:
           images: carv-silva/kube-news:${{github.run_number}}
           manifests: |
             k8s/deployment.yaml        
+
+
+
